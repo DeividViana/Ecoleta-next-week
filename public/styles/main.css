@@ -1,0 +1,43 @@
+:root {
+    --title-color: #322153;
+    /*cria uma var para a cor. cada vez que eu usar esta cor, uso em seu lugar a var (--title-color)*/
+    --primary-color: #34cb79;
+}
+
+* {
+    /*Referencia todos os seletores. Retira as margens padrões*/
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /*box-sizing: padrão da box será a borda;*/
+}
+
+html {
+    font-family: Roboto, sans-serif;
+}
+
+body {
+    background: #f0f0f5;
+    -webkit-font-smoothing: antialiased;
+    /*Deixa a fonte mais apresentável*/
+}
+
+a {
+    text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: var(--title-color);
+    font-family: Ubuntu, sans-serif;
+}
+
+
+/*----BOX MODEL----
+Modelo de caixa:
+Toda a caixa tem uma largura, altura, espaçamento, preenchimento, borda, cor, fundo, maneira que é vista pelo HTML (display), posicionamento, alinhamento.
+*/
