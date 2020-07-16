@@ -20,7 +20,7 @@ Projeto construído durante o Next Level Week #01 da Rocketseat
 <br>
 
 <p align="center">
-  <img alt="Ecoleta" src="https://camo.githubusercontent.com/05192aa51319bed2b8ed8af7e0309db0996f248f/68747470733a2f2f692e696d6775722e636f6d2f473561473678532e706e67" width="100%">
+  <img alt="Ecoleta" src="https://camo.githubusercontent.com/05192aa51319bed2b8ed8af7e0309db0996f248f/68747470733a2f2f692e696d6775722e636f6d2f473561473678532e706e67" width="220px">
 </p>
 
 ## 💻 Projeto
